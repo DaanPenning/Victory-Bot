@@ -61,9 +61,9 @@ Framework.on('command', function(cmd, args, message, Bot, Users){
       Framework.MusicBot.Stats(message);
     break;
     // Search
-    case "image":
-      Framework.Image(message, args);
-    break;
+    //case "image":
+     // Framework.Image(message, args);
+   // break;
 
     case "youtube":
       Framework.MusicBot.Search(message, args);

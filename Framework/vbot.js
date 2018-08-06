@@ -89,7 +89,7 @@ module.exports.Objects = Objects;
 module.exports.MusicBot = MusicBot;
 module.exports.Events = ServerEvents;
 module.exports.Config = botconfig;
-module.exports.Image = ImageSearch;
+//module.exports.Image = ImageSearch;
 
 // EXPORT FUNCTIONALITY
 module.exports.start = login;

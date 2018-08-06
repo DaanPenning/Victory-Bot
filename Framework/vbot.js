@@ -9,7 +9,7 @@ const Objects = require('./src/Objects/Objects.js');
 const MusicBot = require('./src/Music/MusicBot.js')
 const ServerEvents = require('./src/Events/ServerEvents.js');
 const botconfig = require('./botsettings.json');
-const ImageSearch = require('./src/Search/Image.js');
+//const ImageSearch = require('./src/Search/Image.js');
 
 // VARIABLES
 var state = "FULL";

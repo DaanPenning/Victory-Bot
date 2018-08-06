@@ -1,0 +1,17 @@
+{
+  "NoPermsission": "You don't have permission to use this!",
+  "NotAValidMember": "That is not a valid member!",
+  "NotBannable": "This user is not bannable!",
+  "NoReason": "No reason provided!",
+  "BanFailed": "Couldn't ban this user because of an error in the bot...",
+  "Banned": "User has been banned!",
+  "NotKickable": "This user is not kickable!",
+  "NotInAVoiceChannel": "This user is not in a voicechannel!",
+  "AddedToQueue": "Added to Queue!",
+  "ErrorOccured": "An error occured! Please try again!",
+  "Skipped": "Music skipped!",
+  "NoContentInQueueToSkip": "There is nothing to skip!",
+  "BannedFromBot": "Sorry, but you are not allowed to use the bot",
+  "CouldntFindUser": "Sorry, couldn't find that user",
+  "UnknownCommand": "That is not a valid command. Try /help"
+}

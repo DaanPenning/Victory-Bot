@@ -1,0 +1,21 @@
+{
+  "name": "vbot-release",
+  "version": "1.0.0",
+  "description": "The first full release of the Victory Bot, designed for multiple discord servers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daan Penning",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fortnite": "^4.1.1",
+    "google-images": "^2.1.0",
+    "node-google-image-search": "^1.0.3",
+    "npm": "^6.0.0",
+    "opusscript": "0.0.6",
+    "youtube-search": "^1.1.0",
+    "ytdl-core": "^0.20.2"
+  }
+}

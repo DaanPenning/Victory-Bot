@@ -91,4 +91,4 @@ Framework.on('command', function(cmd, args, message, Bot, Users){
   }
 });
 
-Framework.start('NDE1MDc4ODI3MDgyMTIxMjE3.DZgafA.e_jREEPWkHADrM897xoXk_ZiYZs');
+Framework.start(process.env.BOT_TOKEN);

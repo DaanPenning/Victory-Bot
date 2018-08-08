@@ -24,7 +24,7 @@ Bot.on('ready', () => {
 });
 
 Bot.on('message', message => {
-  message.guild.member(Bot.user).setNickname('NICKNAME HERE');
+  message.guild.member(Bot.user).setNickname('Victory Bot');
   // CONDITIONS
   if(message.author.bot) return;
 	if(message.channel.type === "dm") return;

@@ -9,4 +9,6 @@ Features:
 
 Current version: `1.1`
 
-Originally made by Dadema
+I am aware that there are multiple bugs left in the _music bot_, and I will eventually fix those.
+
+Project is currently on hold...

@@ -9,7 +9,7 @@ var search_results_max = 1;
 var name;
 var opts = {
 	maxResults: search_results_max,
-	key: 'AIzaSyCnZIXX-hBB_Mu7OlAlGIC4yT8ehgHwgrY'
+	key: 'AIzaSyCnZIXX-hBB_Mu7OlAlGIC4yT8ehgHw(grY)'
 };
 var servers = {};
 var nowPlaying = "";
